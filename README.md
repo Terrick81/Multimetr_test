@@ -11,7 +11,7 @@
 - Реализованно патерн MVC.
 
 # Структура проекта
- ##model##
+##model##
 - `TesterLogic.cs` Просчет данных;
 ##view##
 - `UIManager.cs` Работа с UI;
