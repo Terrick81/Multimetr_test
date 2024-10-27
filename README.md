@@ -11,11 +11,14 @@
 - Реализованно патерн MVC.
 
 # Структура проекта
+
 ##model##
 - `TesterLogic.cs` Просчет данных;
+  
 ##view##
 - `UIManager.cs` Работа с UI;
 - `SelectorLogic` Звук, анимация рукоядки, вращение;
 - `TesterInterface.cs` Изменение данных на дисплее;
+  
 ##controller##
 - `TesterController.cs` Обработка ввода пользователя, передача входящих данных (P, R);
