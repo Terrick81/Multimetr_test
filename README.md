@@ -13,7 +13,7 @@
 # Структура проекта
 
 ##model##
-- `TesterLogic.cs` Просчет данных;
+- `TesterLogic.cs` Просчет данных, хнанение (P, R);
   
 ##view##
 - `UIManager.cs` Работа с UI;
